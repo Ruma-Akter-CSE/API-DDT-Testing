@@ -1,0 +1,11 @@
+first_name,last_name,total_price,deposit_paid,check_in,check_out,additional_needs
+Ericka,Lakin,291,FALSE,2025-06-25,2025-06-29,comment
+John,Doe,150,TRUE,2025-07-01,2025-07-05,breakfast
+Ava,Smith,320,FALSE,2025-06-20,2025-06-23,extra pillows
+Liam,Brown,280,TRUE,2025-06-30,2025-07-03,early check-in
+Emma,Wilson,210,FALSE,2025-07-10,2025-07-12,lunch
+Noah,Jones,399,TRUE,2025-07-15,2025-07-18,airport pickup
+Olivia,Garcia,180,FALSE,2025-06-28,2025-07-01,baby bed
+William,Miller,245,TRUE,2025-07-05,2025-07-08,extra towels
+Sophia,Davis,310,FALSE,2025-06-22,2025-06-26,window seat
+James,Martinez,275,TRUE,2025-07-02,2025-07-06,dinner
